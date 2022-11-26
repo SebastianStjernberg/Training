@@ -10,3 +10,4 @@ kurkku
 tomaatti
 joulukalenteri
 kuusi
+imuri
