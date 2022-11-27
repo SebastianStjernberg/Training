@@ -10,4 +10,4 @@ kurkku
 tomaatti
 joulukalenteri
 kuusi
-imuri
+lisätty local pasta
